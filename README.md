@@ -1,6 +1,7 @@
 #Web-Starter-Kit
 
 Simple and well organized structure for small projects
+
 -JQuery
 -Bourbon Inclusive
 

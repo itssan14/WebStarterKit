@@ -42,4 +42,4 @@ config.codekit
 .codekit-cache
 
 ###Prepos###
-.config
+*.config
